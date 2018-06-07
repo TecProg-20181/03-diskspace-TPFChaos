@@ -8,8 +8,9 @@ Install
 =======
 
 ```python
-python setup.py install
+sudo python2 setup.py install
 ```
+```pip install PyContracts```
 
 Usage
 =====
